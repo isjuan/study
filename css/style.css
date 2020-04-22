@@ -1,0 +1,35 @@
+body {
+  background: #cab9f8;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+header{
+  margin-top: 50px
+}
+
+h1{
+  color: blue;
+  font-family: monospace;
+}
+
+h2{
+  font-family: monospace;
+}
+
+p{
+  font-size: 18px;
+}
+
+footer{
+  margin-bottom: 20px
+}
+
+.img_padrao {
+  margin-bottom: 20px;
+  width: 300px;
+}
+
+.img_logo{
+  width: 50px;
+}
